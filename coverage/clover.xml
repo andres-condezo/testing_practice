@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1642674948499" clover="3.2.0">
+  <project timestamp="1642674948499" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="28" coveredconditionals="28" methods="7" coveredmethods="7" elements="65" coveredelements="65" complexity="0" loc="30" ncloc="30" packages="1" files="4" classes="4"/>
+    <file name="calculator.js" path="/home/adrsp/Documents/microverse/testing-practive/calculator.js">
+      <metrics statements="15" coveredstatements="15" conditionals="18" coveredconditionals="18" methods="4" coveredmethods="4"/>
+      <line num="4" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="12" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="20" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="31" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="/home/adrsp/Documents/microverse/testing-practive/capitalize.js">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="/home/adrsp/Documents/microverse/testing-practive/reverseString.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="stringLength.js" path="/home/adrsp/Documents/microverse/testing-practive/stringLength.js">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
